@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/TipsOperadoresConsoleApplication/.vs/TipsOperadoresConsoleApplication
+/TipsOperadoresConsoleApplication/x64/Debug/TipsOper.4bb0f419.tlog
+/TipsOperadoresConsoleApplication/x64/Debug
