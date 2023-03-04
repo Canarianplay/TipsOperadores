@@ -1,6 +1,6 @@
 # Fundamentos de la Programación (C++)
 
-## Tips operadores
+## Tips operadores (Clase 2)
 En este repositorio podras encontrar algunos tips de uso de los operadores:
 - Atajos
 - Diferentes usos
